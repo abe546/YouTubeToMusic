@@ -7,6 +7,11 @@
 # BlueJ files
 *.ctxt
 
+#IntelliJ
+.idea
+target/
+
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
@@ -23,5 +28,4 @@
 hs_err_pid*
 
 # Notes
-
 resources.txt
